@@ -5,8 +5,8 @@ Decred Address Scanner
 
 ## Decred Address Scanner Overview
 
-Decred Address Scanner is a standalone app that tracks decred address balances
-and ticket statuses on decred testnet3 and mainnet.
+Decred Address Scanner is a standalone android app that tracks decred address
+balances and ticket statuses on decred testnet3 and mainnet.
 
 ## Latest Downloads
 
